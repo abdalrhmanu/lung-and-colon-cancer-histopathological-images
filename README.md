@@ -16,3 +16,5 @@ To start jupyter notebook server in the same project directory, run the followin
 ```python
 jupyter notebook
 ```
+
+Requires Python 3
