@@ -1,4 +1,5 @@
-lung_colon_image_set/
+dataset/*
 env/
 .ipynb_checkpoints/
 archive.zip
+__pycache__/
