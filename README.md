@@ -4,7 +4,7 @@ Start by setting up and activating a virtual environment (optional but recommend
 
 ```python
 python -m venv env
-.\env\env\activate
+.\env\Scripts\activate
 ```
 
 Then, install the packages requirements.
